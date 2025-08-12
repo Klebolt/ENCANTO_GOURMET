@@ -99,7 +99,7 @@ section {
 }
 
 .home-container {
-    background: url("/img2/homealf.png");
+    background: url("img2/homealf.png");
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -873,4 +873,5 @@ section {
     transform: translateX(-50%);
   }
 }
+
 
